@@ -130,3 +130,6 @@ dmypy.json
 
 # Datasets (large data files — not uploaded to GitHub)
 datasets/
+
+# PyTorch Lightning training logs and checkpoints
+lightning_logs/
